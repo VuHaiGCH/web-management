@@ -1,0 +1,14 @@
+.form{
+    width: 100%;
+    display: flex;
+    padding: 1%;
+}
+
+.search-bar{
+    width: 94%;
+    margin-right: 0.5%;
+}
+
+p.success{
+    color: #4BB543
+}
